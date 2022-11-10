@@ -1,6 +1,6 @@
 // Brandon Wilson
 // 4-6-22
-// Program 4 - Marvel vs DC - add heroes and vilans and imitate them fighting 
+// Program 4 - Marvel vs DC - add heroes and villains and imitate them fighting 
 
 
 //“I will practice academic and personal integrity and excellence of character and expect the same from others.”
